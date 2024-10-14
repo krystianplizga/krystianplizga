@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, this is me, Krystian Plizga 👋
 
 <!--
 **krystianplizga/krystianplizga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
